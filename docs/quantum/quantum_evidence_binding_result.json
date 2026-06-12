@@ -5,10 +5,10 @@
   "binding_decision": "pass",
   "fail_closed": true,
   "schema_validation_result": "valid",
-  "evidence_sha256": "042838784720706fd89ae854bfe28a20510c259baa9fef029ed94d99d5d13b58",
+  "evidence_sha256": "5d01c5e8642b04c781707a6f6aa486b0ecab3dd05eb5a5597c3411659f81bc2a",
   "schema_sha256": "d9cb0f320f7297d8c790f868477c27e56c07d416a7da6095795620d35c2b8190",
   "producer_id": "stage348-local-builder",
-  "source_git_commit": "local-uncommitted",
+  "source_git_commit": "f7304fe",
   "signature_present": true,
   "sigstore_bundle_present": true,
   "reasons": [
@@ -26,5 +26,5 @@
     "no_exploit_code": true,
     "no_real_crypto_backend_published": true
   },
-  "created_at": "2026-06-12T07:59:11.913262+00:00"
+  "created_at": "2026-06-12T08:12:50.052867+00:00"
 }
